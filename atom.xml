@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>龙立昶的博客</title>
+  <title>Levyllc_Blog</title>
   
-  
+  <subtitle>记录学习的技能和遇到的问题</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://www.longlichang.com/"/>
   <updated>2018-03-16T15:25:09.717Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://www.longlichang.com/</id>
   
   <author>
     <name>Long Li Chang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/03/16/hello-world/"/>
-    <id>http://yoursite.com/2018/03/16/hello-world/</id>
+    <link href="http://www.longlichang.com/2018/03/16/hello-world/"/>
+    <id>http://www.longlichang.com/2018/03/16/hello-world/</id>
     <published>2018-03-16T15:25:09.717Z</published>
     <updated>2018-03-16T15:25:09.717Z</updated>
     
